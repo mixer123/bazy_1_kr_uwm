@@ -1,4 +1,4 @@
-# Bazy danych, informatyka, studia stacjonarne 2021/2022
+# Bazy danych, informatyka, studia stacjonarne 2022/2023
 
 
 ## **1. Organizacja zajęć**
